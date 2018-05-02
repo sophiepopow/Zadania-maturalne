@@ -1,6 +1,9 @@
 # matura-sty-2017-inf
 Próbna matura z informatyki rozszerzonej styczeń 2017
 
+# zadanie 4_1
+*przykład wykorzystania plików tekstowych >.< *
+
 # zadanie 4_2
 Przykład sortowania struktury poprzez Vector.
 
