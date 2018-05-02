@@ -11,3 +11,5 @@ Przykład sortowania struktury poprzez Vector.
 Aby zapewnić optymalne rozwiązanie tego problemu należałoby rozważyć użycie funkcji qsort. !*
 
 # zadanie 4_3
+ Wykorzystanie wzoru z geometrii obliczeniowej na pole wielokąta wypukłego.
+ 
