@@ -9,3 +9,5 @@ Przykład sortowania struktury poprzez Vector.
 
 *! Uwaga nie jest to optymalne rozwiązanie, gdyż funkcja sort z biblioteki algorithm wybiera losową metodę sortowania.
 Aby zapewnić optymalne rozwiązanie tego problemu należałoby rozważyć użycie funkcji qsort. !*
+
+# zadanie 4_3
